@@ -1,0 +1,5 @@
+print(type("Hello"))
+print(type(123))
+print(type(True))
+print(type(False))
+print(type(3.5))
